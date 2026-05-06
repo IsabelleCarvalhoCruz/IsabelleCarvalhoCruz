@@ -76,12 +76,12 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelleCruz333&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleCruz333&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelleCarvalhoCruz&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleCarvalhoCruz&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCruz333&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCarvalhoCruz&theme=tokyonight" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabelleCruz333&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabelleCarvalhoCruz&theme=tokyo-night" />
 </p>
 
 ---
@@ -97,8 +97,8 @@
 ## 🧠 Skills em evolução (Radar)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabelleCruz333&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelleCruz333&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabelleCarvalhoCruz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelleCarvalhoCruz&theme=tokyonight" />
 </p>
 
 ---
