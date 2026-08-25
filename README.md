@@ -14,11 +14,10 @@ Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
-## 🐧 Linux Lifestyle
+## Linux Lifestyle
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="320" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tux-Linux.gif" width="200" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="320" /
 </p>
 
 ---
@@ -31,7 +30,7 @@ Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Frontend
 
@@ -72,12 +71,7 @@ Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelleCarvalhoCruz&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleCarvalhoCruz&layout=compact&theme=tokyonight"/>
-</p>
+## Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCarvalhoCruz&theme=tokyonight" />
@@ -85,15 +79,7 @@ Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
-## 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabelleCarvalhoCruz&theme=tokyo-night" />
-</p>
-
----
-
-## 🧠 Skills em evolução (Radar)
+## Skills em evolução (Radar)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabelleCarvalhoCruz&theme=tokyonight" />
@@ -120,18 +106,12 @@ Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
 </p>
-
----
-
-## ⚡ Frase que me guia
-
-> "Segurança não é um produto, é um processo." 🔐
 
 ---
 
