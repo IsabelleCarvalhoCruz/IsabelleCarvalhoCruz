@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 # Olá, eu sou Isabelle Cruz
 
@@ -111,10 +108,4 @@ Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
