@@ -2,15 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Olá, eu sou Isabelle Cruz
+# Olá, eu sou Isabelle Cruz
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;AWS+%7C+Terraform+%7C+Docker;Always+learning+%F0%9F%9A%80" />
 </p>
 
-💻 Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação** <br>
-🚀 Em constante evolução com **AWS, Terraform e automação de infraestrutura**  <br>
-🔐 Interesse especial em **segurança, redes e proteção de aplicações**  <br>
+Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação** <br>
+Em constante evolução com **AWS, Terraform e automação de infraestrutura**  <br>
+Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
@@ -23,18 +23,17 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-* 🌎 Localização: Brasil
-* 📚 Estudando: AWS | Terraform | Docker | Cybersecurity
-* 🎯 Objetivo: atuar como **Cloud/DevOps Engineer**
-* ⚡ Mentalidade: entender *ataques e falhas* para construir sistemas mais seguros
+* Localização: Brasil
+* Estudando: AWS | Terraform | Docker | Cybersecurity
+* Objetivo: atuar como **Cloud/DevOps Engineer**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🎨 Frontend
+### Frontend
 
 <p align="center">
 
@@ -43,7 +42,7 @@
 
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="center">
   
@@ -52,7 +51,7 @@
   
 </p>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p align="center">
 
@@ -63,7 +62,7 @@
 
 </p>
 
-### 🔐 Security & Systems
+### Security & Systems
 
 <p align="center">
 
@@ -103,7 +102,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 🔹 Infraestrutura com Terraform (multi-ambiente) <br>
 🔹 Deploy automatizado com GitHub Actions <br>
@@ -112,7 +111,7 @@
 
 ---
 
-## 🔐 Foco em Segurança
+## Foco em Segurança
 
 * Hardening de servidores Linux
 * Controle de acesso e firewall
